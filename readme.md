@@ -79,11 +79,11 @@ retornará o seguinte resultado:
 
 Previsão de chegada dos próximos ônibus de cada uma das linhas que atendem essa parada.
 
-    /parada/{termo}
+    /previsao/{termo}
 
 O parâmetro `termo`, como o nome sugere, deve receber o valor indicado no atributo `CodigoParada` do recurso Parada. Por exemplo, o código da parada do cruzamento da Av. Paulista com a Rebolças é `260015039`, para consultar a previsão dos próximos ônibus nessa parada:
 
-    http://127.0.0.1/cartaoDaSorte/parada/260015039
+    http://127.0.0.1/cartaoDaSorte/previsao/260015039
 
 O nome dos atributos na representação das previsões são bem menos intuitivos que os demais recursos, então segue a lista dos atributos e respectivos significados:
 
