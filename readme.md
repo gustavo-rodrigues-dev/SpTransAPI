@@ -1,5 +1,5 @@
-# Cartão da Sorte API SPTrans
-
+# Cartão da Sorte API SPTrans - Descontinuado
+A SPTRANS passou a fornecer dados por uma API aberta
 
 API Rest que permite consultar linhas, paradas e previsão dos onibus de São Paulo.
 
